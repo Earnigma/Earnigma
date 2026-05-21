@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://earnigma.github.io/sitemap.xml
